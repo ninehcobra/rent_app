@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/ui/screens/widgets/_best_for_you_item.dart';
+import 'package:rent_app/ui/screens/home/widgets/_best_for_you_item.dart';
 
 class BestForYou extends StatelessWidget {
   final bfyData = BFYData();

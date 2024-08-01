@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/ui/screens/widgets/_near_item.dart';
+import 'package:rent_app/ui/screens/home/widgets/_near_item.dart';
 
 class NearList extends StatelessWidget {
   final nearData = NearLocationData();

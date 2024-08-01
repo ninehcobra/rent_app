@@ -1,5 +1,5 @@
 import 'package:rent_app/styles/colors.dart';
-import 'package:rent_app/ui/screens/home.screen.dart';
+import 'package:rent_app/ui/screens/home/home.screen.dart';
 
 import 'common_libs.dart';
 

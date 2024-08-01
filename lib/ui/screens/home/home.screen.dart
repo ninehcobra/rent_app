@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/ui/screens/widgets/_best_for_you.dart';
-import 'package:rent_app/ui/screens/widgets/_category_bar.dart';
-import 'package:rent_app/ui/screens/widgets/_near_list.dart';
-import 'package:rent_app/ui/screens/widgets/_search_bar.dart';
+import 'package:rent_app/ui/screens/home/widgets/_best_for_you.dart';
+import 'package:rent_app/ui/screens/home/widgets/_category_bar.dart';
+import 'package:rent_app/ui/screens/home/widgets/_near_list.dart';
+import 'package:rent_app/ui/screens/home/widgets/_search_bar.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

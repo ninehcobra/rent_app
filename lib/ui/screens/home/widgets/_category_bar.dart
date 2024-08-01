@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/ui/screens/widgets/_category_item.dart';
+import 'package:rent_app/ui/screens/home/widgets/_category_item.dart';
 
 class CategoryBarWidget extends StatelessWidget {
   final category = CategoryData();
