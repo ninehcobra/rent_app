@@ -3,12 +3,12 @@ import '../common_libs.dart';
 
 class AppColors {
   /// Common
-  final Color primaryColor = const Color(0xFF000A8ED9);
+  final Color primaryColor = Colors.blue[400]!;
   final Color onPrimaryColor = Colors.white;
-  final Color secondaryColor = const Color(0xFF0084CCF5);
+  final Color secondaryColor = Colors.blue[100]!;
   final Color onSecondaryColor = Colors.white;
-  final Color backgroundColor = const Color(0xFF00F9F9F9);
-  final Color blackColor = const Color(0xFF000000);
+  final Color backgroundColor = Colors.white;
+  final Color blackColor = Colors.black;
   final Color greyMediumColor = const Color(0xFF00858585);
   final Color whiteColor = Colors.white;
   final Color errorColor = Color(0xFF00E13F32);
